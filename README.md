@@ -18,6 +18,11 @@ graficos y nodos que simplifican y mejoran la experiencia de usuario, a continua
 <img width="533" alt="image" src="https://github.com/user-attachments/assets/26e878de-77a2-497e-a640-4380c7e4a272" />
 
 # Ventana de chatbot Asistente IA:
+al colocar el nodo Chat Message veremos una ventana como esta:
+<img width="919" alt="image" src="https://github.com/user-attachments/assets/db27734f-c9f1-4d23-8e9a-59ff16ced038" />
+
+la direccion de Chat URL debemos copiarla y pegarla en la linea de WebHook para enlazar la interfaz del chat con N8N y verificar que las otras opciones marcadas con amarillo se configuren como se muestra en la imagen. 
+
 
 # Una vez hayas creado tu asistente con N8N solo tienes que poner tu webhook en la configuracion de la funcion createChat como se muestra en la siguiente linea de codigo:
     `webhookUrl: 'http://localhost:5678/tu--webhook--chat'`
