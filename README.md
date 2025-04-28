@@ -1,4 +1,6 @@
 # Chatbot creado con Vue 3 + Vite
+<img width="698" alt="image" src="https://github.com/user-attachments/assets/3703be97-18e9-4eed-8816-a0b5351f916c" />
+
 
 # Ventana de chatbot Asistente IA:
 Para crear el Asistente se uso la herramienta N8N
