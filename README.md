@@ -1,5 +1,5 @@
 # Chatbot creado con Vue 3 + Vite:
-<img width="698" alt="image" src="https://github.com/user-attachments/assets/d6bc1e98-41ae-46b7-b403-f759d0e7523d" />
+<img width="698" alt="image" src="https://github.com/user-attachments/assets/d6bc1e98-41ae-46b7-b403-f759d0e7523d" /><br>
 
 <img width="698" alt="image" src="https://github.com/user-attachments/assets/3703be97-18e9-4eed-8816-a0b5351f916c" />
 
