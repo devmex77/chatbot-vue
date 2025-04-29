@@ -24,7 +24,7 @@ al colocar el nodo Chat Message veremos una ventana como esta:
 la direccion de Chat URL debemos copiarla y pegarla en la linea de WebHook para enlazar la interfaz del chat con N8N y verificar que las otras opciones marcadas con amarillo se configuren como se muestra en la imagen. 
 
 
-# Una vez hayas creado tu asistente con N8N solo tienes que poner tu webhook en la configuracion de la funcion createChat como se muestra en la siguiente linea de codigo:
+# Una vez hayas creado tu asistente con N8N solo tienes que poner tu webhook(Chat URL) en la configuracion de la funcion createChat como se muestra en la siguiente linea de codigo:
     `webhookUrl: 'http://localhost:5678/tu--webhook--chat'`
 
 # Correr el chatbot
