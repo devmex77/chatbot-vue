@@ -16,16 +16,15 @@ onMounted(async() => {
   }, 500); //espera para asegurar que el chat ya se ha cargado
   
   createChat({
-    
     webhookUrl: 'https://juan97.app.n8n.cloud/webhook/a889d2ae-2159-402f-b326-5f61e90f602e/chat',
     defaultLanguage: 'es',
-    initialMessages: ['¡Hola! Soy Edu, tu asistente DGES. ¿En qué puedo ayudarte hoy?'],
+    initialMessages: ['¡Hola! Soy Edu, tu asistente de la DGES. ¿En qué puedo ayudarte hoy?'],
     target: '#n8n-chat',
     mode: 'fullscreen', //window
     showWelcomeScreen: false,
     i18n : {
       es : {
-        title: '¡Hola! 👋 Bienvenido/a' ,
+        title: '¡Hola! 👋 Bienvenido/a a la DGES Guanajuato (ChatBot-Test)' ,
         subtitle : 'Mi trabajo es brindarte información precisa sobres la DGES y sus procesos ¡Pregúntame lo que necesites!',
         footer: '',
         getStarted : 'Nueva Conversacion',
