@@ -17,7 +17,7 @@ onMounted(async() => {
   
   createChat({
     
-    webhookUrl: 'http://localhost:5678/tu--webhook--chat',
+    webhookUrl: 'https://juan97.app.n8n.cloud/webhook/a889d2ae-2159-402f-b326-5f61e90f602e/chat',
     defaultLanguage: 'es',
     initialMessages: ['¡Hola! Soy tu asistente digital. ¿En qué puedo ayudarte hoy?'],
     target: '#n8n-chat',
@@ -38,9 +38,7 @@ onMounted(async() => {
 </script>
 
 <template>
-
 </template>
 
 <style scoped>
-
 </style>
