@@ -17,13 +17,13 @@
 
 /*fondo del contenedor de chat*/
 #n8n-chat .chat-body {
-  background-color: #74daff;
+  background-color: #dbe0e2;
 }
 
 /*mensajes del usuario*/
 #n8n-chat .chat-message-from-user {
-  background-color: #d7f34a !important;
-  color: #1a1a1a !important;
+  background-color: #3566c7 !important;
+  color: #f4f1f1 !important;
 }
 
 :root {
