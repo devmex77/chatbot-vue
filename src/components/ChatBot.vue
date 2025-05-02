@@ -24,7 +24,7 @@ onMounted(async() => {
     showWelcomeScreen: false,
     i18n : {
       es : {
-        title: '¡Hola! 👋 Bienvenido/a a la DGES Guanajuato (ChatBot-Test)' ,
+        title: '¡Hola! 👋 Bienvenido/a a la DGES Guanajuato (ChatBot-Test) Disponible hasta: 9/5/2025' ,
         subtitle : 'Mi trabajo es brindarte información precisa sobres la DGES y sus procesos ¡Pregúntame lo que necesites!',
         footer: '',
         getStarted : 'Nueva Conversacion',
