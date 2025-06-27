@@ -4,9 +4,6 @@
 
 🚀 En este ejemplo se implementa un asistente con inteligencia artificial que funciona desde el navegador, usando la herramienta N8N y se busca aplicar el patron de diseño atomico, el cual permite un mayor orden, limpieza y control en el codigo.
 
-<img width="698" alt="image" src="https://github.com/user-attachments/assets/d6bc1e98-41ae-46b7-b403-f759d0e7523d" /><br>
-
-<img width="698" alt="image" src="https://github.com/user-attachments/assets/3703be97-18e9-4eed-8816-a0b5351f916c" />
 
 # Descripcion de Funcionalidad:
 
